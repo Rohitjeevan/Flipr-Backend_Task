@@ -2,6 +2,8 @@
 
 
 //  **** Note *****
+
+//  this is the link of postman folder for api :-   https://documenter.getpostman.com/view/24990566/2s9YeA8ta5
 //  to start a server for  development Mode : - npm run dev
 //  to start a server for production         :- npm run start
 //  to connecting the data base we have have a DB_URL in config.env so change that 
